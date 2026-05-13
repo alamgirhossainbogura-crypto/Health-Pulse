@@ -1,4 +1,4 @@
-7# 🩺 Health Pulse - AI-Powered Wellness Assistant
+ 🩺 Health Pulse - AI-Powered Wellness Assistant
 
 **Health Pulse** is a modern web application designed to simplify health tracking and dietary planning. Developed for the **#BuiltWithMeDo Hackathon**, it leverages AI to provide instant, actionable health insights.
 
